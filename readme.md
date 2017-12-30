@@ -1,5 +1,6 @@
 # Oh chat!
 An interactive web based chat application designed for all devices.
+Here is the working version of the app [Oh Chat](https://oh-chat.herokuapp.com)
 
 ## Requirements:
 1. Linux based virtual machine. You can learn the installation of the virtual machine using [Vagrant](https://www.vagrantup.com/) and [Virtual box](https://www.virtualbox.org/wiki/Downloads) [here](http://www.bogotobogo.com/DevOps/Vagrant/Vagrant_VirtualBox.php).
